@@ -1,0 +1,2 @@
+GET http://localhost:5000/api/rates?base=CZK&currency=EUR,GBP,USD,NGN
+# GET https://api.exchangeratesapi.io/latest?base=CZK
